@@ -15,7 +15,7 @@ body{
     padding-left: 5%;
 }
 h2{
-    color: rgb(46, 46, 46);
+    color: #414141;
 }
 .mark-clr{
     color: #ff4066;
@@ -47,4 +47,15 @@ h2{
 }
 .backg{
     background-image: url(images/shapes/Frame\ 59.jpg);
+}
+.sec3-d1{
+    text-align: center;
+    color: #414141;
+    
+}
+.sec3-d1 p{
+    padding: 10px 270px;
+}
+.sec3-d1 h1{
+    font-size: 50px;
 }
