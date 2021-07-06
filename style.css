@@ -9,13 +9,16 @@ body{
 
 header{
     background-color: #ff4066;
-    padding: 10px 15px;
+    padding: 10px 10px;
     
 }
 
 header img{
     width: 85px;
     padding-left: 510px;
+}
+.menu-sec{
+    margin-top: 50px;
 }
 
 .menu{
@@ -25,7 +28,6 @@ header img{
     color: white;
     padding-left: 150px;
     font-weight: 700;
-    
 }
 
 .top-btm{
@@ -62,6 +64,9 @@ h2{
 
 p{
     font-size: 18px;
+}
+
+.mark-clr{color: #ff4066;
 }
 
 .order-btn{
@@ -128,7 +133,6 @@ p{
     font-weight: 700;
     text-decoration: none;
     background-image: linear-gradient(#a00020, #ff4066);
-
     color: #ffffff;
     border-radius: 50px;
     padding: 9px 30px;
