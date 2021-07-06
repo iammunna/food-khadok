@@ -60,6 +60,7 @@ h2{
 .sec3-d1 h1{
     font-size: 50px;
 }
+
 .sec4-itm1{
     box-shadow: 10px 10px 40px gray;
     width: 60%;
@@ -104,4 +105,18 @@ h2{
     padding-left: 5%;
     padding-right: 5%;
     padding-bottom: 5%;
+}
+.sec5{
+    box-shadow: 10px 10px 40px gray;
+    margin: 170px 45px 170px 45px;
+    border-radius: 20px;
+    
+}
+.sec5-txt{
+    text-align: center;
+    margin: 45px;
+    padding-left: 70px;
+}
+#sec5{
+    padding-bottom: 500px;
 }
