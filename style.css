@@ -2,18 +2,22 @@ body{
     font-family:  Arial, Helvetica, sans-serif;
     margin: 0px;
 }
+
 .flexi{
     display: flex;
 }
+
 header{
     background-color: #ff4066;
     padding: 10px 15px;
     
 }
+
 header img{
     width: 85px;
     padding-left: 510px;
 }
+
 .menu{
     text-decoration: none;
     font-weight: 700;
@@ -23,6 +27,7 @@ header img{
     font-weight: 700;
     
 }
+
 .top-btm{
     text-decoration: none;
     font-weight: 700;
@@ -31,16 +36,19 @@ header img{
     padding-left: 70px;
     background-color: #ff4066;
 }
+
 .sec1-img{
     width: 90%;
     position: right;
     
 }
+
 .sec1-d1{
     font-size: 240%;
     padding-left: 40px;
     padding-top: 90px;
 }
+
 h2{
     color: #414141;
     font-size: 22px;
@@ -51,9 +59,11 @@ h2{
     padding-bottom: 50px;
     
 }
+
 p{
     font-size: 18px;
 }
+
 .order-btn{
     font-weight: 700;
     text-decoration: none;
@@ -64,6 +74,7 @@ p{
     margin-bottom: 15px;
     font-size: 25px;
 }
+
 .bonus{
     box-shadow: 10px 10px 40px gray;
     width: 90%;
@@ -73,15 +84,14 @@ p{
     padding-top: 15px;
     text-align: center;
 }
+
 #bonus{
     padding-bottom: 120px;
     padding-top: 120px;
-    padding-right: 5px;
-    align-items: center;
     
 }
+
 .bonus-btn{
-    
     text-decoration: none;
     background-image: linear-gradient(#a00020, #ff4066);
     color: #ffffff;
@@ -90,27 +100,30 @@ p{
     margin: 50px 70px 50px 5px;
 
 }
+
 .area-box{
     padding-left: 130px;
     box-sizing: border-box;
     height: 40%;
-    
-  
-    
+    width: 85%;
 }
+
 .sec2-img{
     width: 45%;
     padding-left: 25%;
 
 }
+
 .sec2-p{
     text-align: left;
     padding-right: 5%;
     padding-bottom: 10%;
 }
+
 .sec2-d2{
     padding-top: 5%;
 }
+
 .contact-btn{
     font-weight: 700;
     text-decoration: none;
@@ -121,18 +134,22 @@ p{
     padding: 9px 30px;
     margin-bottom: 15px;
 }
+
 .backg{
     background-image: url(images/shapes/Frame\ 59.jpg);
 }
+
 .sec3-d1{
     text-align: center;
     color: #414141;
     
 }
+
 .sec3-d1 p{
     padding: 10px 270px;
     padding-bottom: 5%;
 }
+
 .sec3-d1 h1{
     font-size: 50px;
 }
@@ -147,10 +164,12 @@ p{
     border-radius: 20px;
     text-align: center;
 }
+
 .space{
     padding-left: 5%;
     padding-right: 5%;
 }
+
 .sec4-itm2{
     box-shadow: 10px 10px 40px gray;
     width: 60%;
@@ -161,6 +180,7 @@ p{
     border-radius: 20px;
     text-align: center;
 }
+
 .sec4-itm3{
     box-shadow: 10px 10px 40px gray;
     width: 60%;
@@ -171,39 +191,47 @@ p{
     border-radius: 20px;
     text-align: center;
 }
+
 .sec4-img{
     margin-right: 5.5px;
     width: 93%;
     border-radius: 20px;
 }
+
 .sec4-txt{
     text-align: left;
     padding-left: 5%;
     padding-right: 5%;
     padding-bottom: 5%;
 }
+
 .sec5{
     box-shadow: 10px 10px 40px gray;
     margin: 120px 45px 120px 45px;
     border-radius: 20px;
     
 }
+
 .sec5-txt{
     text-align: center;
     margin: 45px;
     padding-left: 70px;
 }
+
 #sec5{
     padding-bottom: 500px;
 }
+
 footer{
     background-color: #0f0f16;
     padding: 65px 65px;
     text-align: center;
 }
+
 footer h1{
     color: #ff4066;
 }
+
 footer small{
     color: white;
 }
