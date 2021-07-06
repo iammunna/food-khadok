@@ -5,6 +5,31 @@ body{
 .flexi{
     display: flex;
 }
+header{
+    background-color: #ff4066;
+    padding: 10px 15px;
+    
+}
+header img{
+    width: 85px;
+    padding-left: 510px;
+}
+.menu{
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 30px;
+    color: white;
+    padding-left: 150px;
+    font-weight: 700;
+    
+}
+.top-btm{
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 30px;
+    color: white;
+    padding-left: 70px;
+}
 .sec1-img{
     width: 90%;
     position: right;
@@ -12,7 +37,8 @@ body{
 }
 .sec1-d1{
     font-size: 240%;
-    padding-left: 5%;
+    padding-left: 40px;
+    padding-top: 90px;
 }
 h2{
     color: #414141;
@@ -23,6 +49,7 @@ h2{
 .sec1-d1-sm{
     font-size: 45%;
     
+    
 }
 .order-btn{
     font-weight: 700;
@@ -30,7 +57,7 @@ h2{
     background-image: linear-gradient(#a00020, #ff4066);
     color: #ffffff;
     border-radius: 50px;
-    padding: 10px 40px;
+    padding: 9px 60px;
 }
 .sec2-img{
     width: 35%;
@@ -121,7 +148,7 @@ h2{
     padding-bottom: 500px;
 }
 footer{
-    background-color: rgb(15, 15, 22);
+    background-color: #0f0f16;
     padding: 65px 65px;
     text-align: center;
 }
