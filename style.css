@@ -108,7 +108,7 @@ h2{
 }
 .sec5{
     box-shadow: 10px 10px 40px gray;
-    margin: 170px 45px 170px 45px;
+    margin: 120px 45px 120px 45px;
     border-radius: 20px;
     
 }
@@ -119,4 +119,15 @@ h2{
 }
 #sec5{
     padding-bottom: 500px;
+}
+footer{
+    background-color: rgb(15, 15, 22);
+    padding: 65px 65px;
+    text-align: center;
+}
+footer h1{
+    color: #ff4066;
+}
+footer small{
+    color: white;
 }
